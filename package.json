@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-lax",
+  "version": "0.0.0",
+  "description": "lax self",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "lax",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
